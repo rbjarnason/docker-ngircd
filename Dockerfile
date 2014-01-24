@@ -1,4 +1,5 @@
 # ngIRCd
+# Version 0.1
 
 FROM yrpri/base
 MAINTAINER Robert Vidar Bjarnason <robert@citizens.is>
